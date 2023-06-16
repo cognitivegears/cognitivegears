@@ -16,6 +16,13 @@ I am currently learning 🌱:
 * Webassembly (with Emscripten)
 * Jamstack
 
+### Contact Me
+<ul>
+<li><a rel="me" href="https://bitbang.social/@cognitivegears">Mastodon</a></li>
+<li><a href="https://lemmy.sdf.org/u/cognitivegears">Lemmy</a></li>
+<li><a href="https://matrix.to/#/@cognitivegears:matrix.org">Matrix</a></li>
+</ul>
+
 ### Stats 👨‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cognitivegears&show_icons=true&theme=gruvbox)
