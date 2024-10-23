@@ -6,15 +6,12 @@ My pronouns are he/his
 
 I am a:
 * Husband and Father
-* Principal - Software Engineering at Mastercard
+* Principal Applicaiton Security Architect
 * Open Source Developer
 * Retrocomputing hobbyist
 * IOT tinkerer
 * ... and more, just ask!
 
-I am currently learning 🌱:
-* Webassembly (with Emscripten)
-* Jamstack
 
 ### Contact Me
 <ul>
