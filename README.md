@@ -17,7 +17,7 @@ I am a:
 <ul>
 <li><a rel="me" href="https://bitbang.social/@cognitivegears">Mastodon</a></li>
 <li><a href="https://lemmy.sdf.org/u/cognitivegears">Lemmy</a></li>
-<li><a href="https://matrix.to/#/@cognitivegears:matrix.org">Matrix</a></li>
+<li><a href="https://linkedin.com/in/nathanielbyrd">LinkedIn</a></li>
 </ul>
 
 ### Stats 👨‍💻
